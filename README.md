@@ -57,11 +57,11 @@ npm test
 4. Source 选 Deploy from a branch，分支 main，目录 /(root)，保存。
 5. 发布完成后使用 Pages 给出的HTTPS链接。
 
-计划部署账号为 `wanjiujin`。若仓库使用上述名称，预期网址形式为：
+线上体验：[搬砖回血](https://wanjiujin.github.io/banzhuan-huixue/)
 
-`https://wanjiujin.github.io/banzhuan-huixue/`
+项目仓库：[wanjiujin/banzhuan-huixue](https://github.com/wanjiujin/banzhuan-huixue)
 
-**这是计划地址；此项目包制作时尚未创建仓库，也未确认上线。**
+已开启 GitHub Pages，2026年10月10日确认可访问。更新 main 分支的网页文件后，Pages 会自动重新发布。
 
 ## 数据与兼容
 
